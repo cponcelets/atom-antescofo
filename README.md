@@ -5,10 +5,18 @@ Antescofo~ is a modular polyphonic Score Following system as well as a Synchrono
 This package provides syntax highlighting and it will soon be possible to interact with Antescofo and the visual editor Ascograph.
 
 
+It is co-developed with :
+
+- Clément PGP: https://github.com/ClementPGP
+- Pierre Donat-Bouillud:  https://github.com/programLyrique
+
+
 ### Dependencies :
 
-The language-antescofo syntax theme is necessary to tweak and make the syntax highlighting occur :
-Atom preferences ==> Install ==> Themes ==> atom-antescofo-syntax ==> Install
+This package works with the atom-antescofo-syntax you can install in
+The language-antescofo syntax theme make it easy to tweak and make the syntax highlighting that suits you:
+‘Atom preferences‘ ==> ‘Install’ ==> ‘Themes‘ ==> search for ‘atom-antescofo-syntax‘’ ==> ‘Install‘
+Once installed click on the ‘view code‘ tab ==> ‘styles‘ ==> ‘do‘
 
 
 
