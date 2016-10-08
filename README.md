@@ -4,7 +4,7 @@ Antescofo~ is a modular polyphonic Score Following system as well as a Synchrono
 
 - http://forumnet.ircam.fr/fr/produit/antescofo/
 
-This package provides a grammar to activate syntax highlighting for the Antescofo Language :
+This package provides a grammar core to activate syntax highlighting for the Antescofo Language :
 
 http://support.ircam.fr/docs/Antescofo/manuals/UserGuide/intro/
 
