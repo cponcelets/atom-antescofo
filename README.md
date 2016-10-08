@@ -1,10 +1,10 @@
 # language-antescofo package
 
-Antescofo~ is a modular polyphonic Score Following system as well as a Synchronous Programming language for musical composition. The module allows for automatic recognition of music score position and tempo from a realtime audio Stream coming from performer(s), making it possible to synchronize an instrumental performance with computer realized elements. The synchronous language within Antescofo allows flexible writing of time and interaction in computer music.
+`Antescofo~` is a modular polyphonic Score Following system as well as a Synchronous Programming language for musical composition. The module allows for automatic recognition of music score position and tempo from a realtime audio Stream coming from performer(s), making it possible to synchronize an instrumental performance with computer realized elements. The synchronous language within Antescofo allows flexible writing of time and interaction in computer music.
 
 - http://forumnet.ircam.fr/fr/produit/antescofo/
 
-This package provides a grammar core to activate syntax highlighting for the Antescofo Language :
+This package provides a grammar core to activate syntax highlighting for the `Antescofo Language` :
 
 http://support.ircam.fr/docs/Antescofo/manuals/UserGuide/intro/
 
