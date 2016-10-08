@@ -13,10 +13,12 @@ It is co-developed with :
 
 ### Dependencies :
 
-This package works with the atom-antescofo-syntax you can install in
-The language-antescofo syntax theme make it easy to tweak and make the syntax highlighting that suits you:
-‘Atom preferences‘ ==> ‘Install’ ==> ‘Themes‘ ==> search for ‘atom-antescofo-syntax‘’ ==> ‘Install‘
-Once installed click on the ‘view code‘ tab ==> ‘styles‘ ==> ‘do‘
+This package works with the `atom-antescofo-syntax` you can install in Atom.
+This `theme` makes it easy to tweak and arrange the syntax highlighting that suits you:
+
+`Atom preferences` ==> `Install` tab ==> `Themes` tab ==> search for `atom-antescofo-syntax` ==> `Install`
+
+Once installed click on the `view code` tab ==> `styles` folder ==> ‘here you go‘
 
 
 
