@@ -27,7 +27,20 @@ This `theme` makes it easy to tweak and arrange the syntax highlighting that sui
 Once installed click on the `view code` tab ==> `styles` folder ==> `here you go`
 
 
+# Antescofo File Recognition :
 
+To customize Atom when loading Antescofo files , you need only manually edit your Atom config.cson file :
+
+- Open it using the Application: Open Your Config command from the Command Palette.
+- Add this to your configuration file under the *.core section:
+
+customFileTypes:
+      "source.antescofo": [
+        "asco"
+        "asco.txt"
+        "score"
+        "score.txt"
+      ]
 
 ### Commands
 
