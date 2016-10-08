@@ -6,7 +6,7 @@
 
 This package provides a grammar core to activate syntax highlighting for the `Antescofo Language` :
 
-http://support.ircam.fr/docs/Antescofo/manuals/UserGuide/intro/
+- http://support.ircam.fr/docs/Antescofo/manuals/UserGuide/intro/
 
 
 This package is co-developed with :
@@ -44,4 +44,4 @@ Open commands in Atom with `command-shift-P` and type `antescofo` to filter by A
 | `alt-c`          | antescofo:stoptantescofo   |
 | `alt-l`          | antescofo:Loadantescofo    |
 
-These commands are also available if you right-click on a word and check the context menu.
+Some of these commands are also available if you right-click on a word and check the context menu.
