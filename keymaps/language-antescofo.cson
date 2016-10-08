@@ -1,0 +1,7 @@
+
+"atom-workspace atom-text-editor[data-grammar~='language-antescofo']":
+  'alt-s': 'antescofo:startantescofo'
+  'alt-p': 'antescofo:oscsend'
+  'alt-shift-s': 'antescofo:startfromlabel'
+  'alt-c': 'antescofo:stoptantescofo'
+  'alt-l': 'antescofo:Loadantescofo'
