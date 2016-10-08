@@ -1,14 +1,12 @@
 {
   "name": "atom-antescofo",
   "main": "./lib/language-antescofo",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Syntax highlighting and interaction with language-antescofo and ascograph",
   "keywords": [
     ".asco",
     ".asco.txt"
   ],
-
-
   "activationCommands": {
     "atom-workspace": [
       "language-antescofo:toggle",
@@ -17,8 +15,6 @@
       "antescofo:startfromlabel",
       "antescofo:stoptantescofo",
       "antescofo:Loadantescofo"
-
-
     ]
   },
   "repository": "https://github.com/nadirB/atom-antescofo",
@@ -26,6 +22,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
