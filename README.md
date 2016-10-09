@@ -32,13 +32,13 @@ To customize Atom when loading Antescofo files , you need only manually edit you
 
 - Open it using the Application: Open Your Config command from the Command Palette.
 - Add this to your configuration file under the *.core section:
-
+.core<br>
 customFileTypes:<br>
-&nbsp;    "source.antescofo": [<br>
- &nbsp;&nbsp;       "asco"<br>
- &nbsp;&nbsp;       "asco.txt"<br>
- &nbsp; &nbsp;      "score"<br>
-  &nbsp;&nbsp ;     "score.txt"<br>
+&nbsp;&nbsp;&nbsp;&nbsp;    "source.antescofo": [<br>
+&nbsp;&nbsp;&nbsp;&nbsp;       "asco"<br>
+&nbsp;&nbsp;&nbsp;&nbsp;       "asco.txt"<br>
+&nbsp;&nbsp;&nbsp; &nbsp;      "score"<br>
+&nbsp;&nbsp;&nbsp;&nbsp;     "score.txt"<br>
       ]<br>
 
 ### Commands
