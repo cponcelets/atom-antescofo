@@ -31,15 +31,16 @@ Once installed click on the `view code` tab ==> `styles` folder ==> `here you go
 To customize Atom when loading Antescofo files , you need only manually edit your Atom config.cson file :
 
 - Open it using the Application: Open Your Config command from the Command Palette.
-- Add this to your configuration file under the *.core section:<br>
-.core<br>
-customFileTypes:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;    "source.antescofo": [<br>
-&nbsp;&nbsp;&nbsp;&nbsp;       "asco"<br>
-&nbsp;&nbsp;&nbsp;&nbsp;       "asco.txt"<br>
-&nbsp;&nbsp;&nbsp; &nbsp;      "score"<br>
-&nbsp;&nbsp;&nbsp;&nbsp;     "score.txt"<br>
-      ]<br>
+- Add this to your configuration file under the *.core section:<br><br>
+"*":<br>
+&nbsp;core:<br>
+&nbsp;&nbsp;customFileTypes:<br>
+&nbsp;&nbsp;&nbsp    "source.antescofo": [<br>
+&nbsp;&nbsp;&nbsp      "asco"<br>
+&nbsp;&nbsp;&nbsp      "asco.txt"<br>
+&nbsp;&nbsp;&nbsp;       "score"<br>
+&nbsp;&nbsp;&nbsp;     "score.txt"<br>
+&nbsp;&nbsp;&nbsp;      ]<br>
 
 ### Commands
 
