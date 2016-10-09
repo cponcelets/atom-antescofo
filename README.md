@@ -4,7 +4,7 @@
 
 # Antescofo's Atom package
 
-This package provides a grammar core to activate syntax highlighting for the `Antescofo Language` :
+It provides a grammar core to activate syntax highlighting for the `Antescofo Language` :
 
 - http://support.ircam.fr/docs/Antescofo/manuals/UserGuide/intro/
 
