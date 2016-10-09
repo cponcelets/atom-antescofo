@@ -31,7 +31,7 @@ Once installed click on the `view code` tab ==> `styles` folder ==> `here you go
 To customize Atom when loading Antescofo files , you need only manually edit your Atom config.cson file :
 
 - Open it using the Application: Open Your Config command from the Command Palette.
-- Add this to your configuration file under the *.core section:
+- Add this to your configuration file under the *.core section:<br>
 .core<br>
 customFileTypes:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;    "source.antescofo": [<br>
