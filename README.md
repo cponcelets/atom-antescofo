@@ -14,23 +14,14 @@ This package is co-developed with :
 - Clément PGP: https://github.com/ClementPGP
 
 
-You are welcome to contribute.
-
-
-<<<<<<< HEAD
 ## Install
 
-You can install this theme in your `Atom theme settings` (http://flight-manual.atom.io/using-atom/sections/atom-packages).
-=======
-### Atom Theme :
+You can install this package in your `Atom package settings` (http://flight-manual.atom.io/using-atom/sections/atom-packages).
 
-This package works with the `atom-antescofo-syntax theme` available on this repo and can be easily installed in `Atom` Preferences. This `theme` makes it easy to tweak and arrange the syntax highlighting that suits you:
->>>>>>> origin/master
+### Atom's Theme :
 
-### Dependencies :
-
-This package works with the `atom-antescofo-syntax` you can install in `Atom` Preferences.
-This `theme` makes it easy to tweak and arrange the syntax highlighting that suits you
+This package works with the `atom-antescofo-syntax` and `atom-antescofo-light-syntax` themes available on this repo and can be easily installed in `Atom theme settings`.<br>
+This `theme` makes it easy to tweak and arrange the syntax highlighting that suits you:
 
 
 # Antescofo File Recognition :
