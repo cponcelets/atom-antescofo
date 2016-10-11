@@ -1,10 +1,10 @@
-# language-antescofo package
-
 `Antescofo~` is a modular polyphonic Score Following system as well as a Synchronous Programming language for musical composition. The module allows for automatic recognition of music score position and tempo from a realtime audio Stream coming from performer(s), making it possible to synchronize an instrumental performance with computer realized elements. The synchronous language within Antescofo allows flexible writing of time and interaction in computer music.
 
 - http://forumnet.ircam.fr/fr/produit/antescofo/
 
-This package provides a grammar core to activate syntax highlighting for the `Antescofo Language` :
+# Antescofo's Atom package
+
+It provides a grammar core to activate syntax highlighting for the `Antescofo Language` :
 
 - http://support.ircam.fr/docs/Antescofo/manuals/UserGuide/intro/
 
@@ -12,14 +12,20 @@ This package provides a grammar core to activate syntax highlighting for the `An
 This package is co-developed with :
 
 - Clément PGP: https://github.com/ClementPGP
-- Pierre Donat-Bouillud:  https://github.com/programLyrique
+
 
 You are welcome to contribute.
 
 
+<<<<<<< HEAD
 ## Install
 
 You can install this theme in your `Atom theme settings` (http://flight-manual.atom.io/using-atom/sections/atom-packages).
+=======
+### Atom Theme :
+
+This package works with the `atom-antescofo-syntax theme` available on this repo and can be easily installed in `Atom` Preferences. This `theme` makes it easy to tweak and arrange the syntax highlighting that suits you:
+>>>>>>> origin/master
 
 ### Dependencies :
 
@@ -32,15 +38,16 @@ This `theme` makes it easy to tweak and arrange the syntax highlighting that sui
 To customize Atom when loading Antescofo files , you need only manually edit your Atom config.cson file :
 
 - Open it using the Application: Open Your Config command from the Command Palette.
-- Add this to your configuration file under the *.core section:
-
-customFileTypes:
-      "source.antescofo": [
-        "asco"
-        "asco.txt"
-        "score"
-        "score.txt"
-      ]
+- Add this to your configuration file under the *.core section:<br><br>
+(under the asterisk):<br>
+&nbsp;core:<br>
+&nbsp;&nbsp;customFileTypes:<br>
+&nbsp;&nbsp;&nbsp;"source.antescofo": [<br>
+&nbsp;&nbsp;&nbsp;"asco"<br>
+&nbsp;&nbsp;&nbsp;"asco.txt"<br>
+&nbsp;&nbsp;&nbsp;"score"<br>
+&nbsp;&nbsp;&nbsp;"score.txt"<br>
+&nbsp;&nbsp;&nbsp;]<br>
 
 ### Commands
 
