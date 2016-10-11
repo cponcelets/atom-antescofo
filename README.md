@@ -17,14 +17,14 @@ This package is co-developed with :
 You are welcome to contribute.
 
 
+## Install
+
+You can install this theme in your `Atom theme settings` (http://flight-manual.atom.io/using-atom/sections/atom-packages).
+
 ### Dependencies :
 
 This package works with the `atom-antescofo-syntax` you can install in `Atom` Preferences.
-This `theme` makes it easy to tweak and arrange the syntax highlighting that suits you:
-
-`Atom preferences` ==> `Install` tab ==> `Themes` tab ==> search for `atom-antescofo-syntax` ==> `Install`
-
-Once installed click on the `view code` tab ==> `styles` folder ==> `here you go`
+This `theme` makes it easy to tweak and arrange the syntax highlighting that suits you
 
 
 # Antescofo File Recognition :
