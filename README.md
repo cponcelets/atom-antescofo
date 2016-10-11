@@ -4,12 +4,12 @@
 
 # Antescofo's Atom package
 
-It provides a grammar core to activate syntax highlighting for the `Antescofo Language` :
+This package provides a grammar core to activate syntax highlighting for the `Antescofo Language` :
 
 - http://support.ircam.fr/docs/Antescofo/manuals/UserGuide/intro/
 
 
-This package is co-developed with :
+It is co-developed with :
 
 - Clément PGP: https://github.com/ClementPGP
 
@@ -20,8 +20,8 @@ You can install this package in your `Atom package settings` (http://flight-manu
 
 ### Atom's Theme :
 
-This package works with the `atom-antescofo-syntax` and `atom-antescofo-light-syntax` themes available on this repo and can be easily installed in `Atom theme settings`.<br>
-This `theme` makes it easy to tweak and arrange the syntax highlighting that suits you:
+This package works with the `atom-antescofo-syntax` and `atom-antescofo-light-syntax` themes available on this repo and can be easily installed in `Atom theme settings`.<br><br>
+These `themes` make it easy to tweak and arrange the syntax highlighting that suits you...
 
 
 # Antescofo File Recognition :
@@ -30,7 +30,7 @@ To customize Atom when loading Antescofo files , you need only manually edit you
 
 - Open it using the Application: Open Your Config command from the Command Palette.
 - Add this to your configuration file under the *.core section:<br><br>
-(under the asterisk):<br>
+`under the asterisk`:<br>
 &nbsp;core:<br>
 &nbsp;&nbsp;customFileTypes:<br>
 &nbsp;&nbsp;&nbsp;"source.antescofo": [<br>
