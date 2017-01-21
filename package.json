@@ -1,7 +1,7 @@
 {
   "name": "atom-antescofo",
   "main": "./lib/language-antescofo",
-  "version": "1.0.4-beta",
+  "version": "1.0.5-beta",
   "description": "Syntax highlighting and interaction with language-antescofo and ascograph",
   "keywords": [
     ".asco",
