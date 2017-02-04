@@ -11,7 +11,7 @@ This package provides a grammar core to activate syntax highlighting for the `An
 
 It is co-developed with :
 
-- Clément PGP: https://github.com/ClementPGP
+- Clément Poncelet Sanchez: https://github.com/cponcelets
 
 
 ## Install
